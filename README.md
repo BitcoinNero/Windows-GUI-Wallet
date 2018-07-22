@@ -2,5 +2,6 @@
 
 Download http://download.btcnero.org/windows-gui.zip
 ```
+Unzip
 Launch Bitcoinnero.exe
 ```
